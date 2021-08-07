@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    scroll-behavior: smooth;
+    
+}
+
+#apps{ 
+background: linear-gradient( #ffc800 0% , #ff9500 100% )
+}
+
+img{
+    width: 250px;
+    border-radius: 20px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: black;
+}
+
+#Games{
+    background: linear-gradient( #00d0ff 0% , #0080ff 100% )
+}
+
+#chat-bots{
+background: linear-gradient( #26ff00 0% , #31c908 100% )
+}
+
+#mycarousel{
+    background-color: firebrick;
+}
+#mycarousel img{
+    border-style: groove;
+    border-color: black;
+    border-width: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#mycarousel h2{
+    color: white;
+}
+#mycarousel h3{
+    color: white;
+}
